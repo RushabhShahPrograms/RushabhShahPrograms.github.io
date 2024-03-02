@@ -23,7 +23,6 @@ IIIT Vadodara student currently pursuing Masters in Artificial Intelligence. I h
     - **Project on E-Commerce Website** - Created a shopping website where user can log in, register, and view products
    
 ## Skills
-Microsoft Office, Python, Django, Java, C/C++, Bootstrap, Teamwork, Time management, PostgreSQL, Web Development, Streamlit
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,django,python,c,cpp,java" />
