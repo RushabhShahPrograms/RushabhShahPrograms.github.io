@@ -3,7 +3,11 @@
 ## Summary
 IIIT Vadodara student currently pursuing Masters in Artificial Intelligence. I have knowledge in software development with 7+ months of experience in field of python, Django, frontend, Artificial Intelligence and Machine Learning. Looking forward to use my skills in development of efficient softwares and contribute in the growth of the company.
 
-I would :heart: to work or contribute on projects which are based on Machine Learning and Computer Vision which are impactful to solve real life problems!
+**I would love to work or contribute on projects which are based on Machine Learning and Computer Vision which are impactful to solve real life problems!**
+
+## Education
+  - MTech @ Indian Institute of Engineering and Technology Vadodara [09/2023 to 07/2025]
+  - B.E @ L.J Institute of Engineering and Technology [09/2019 to 05/2023]
 
 ## Experience
   - Teaching Assistant @ IIITV [09/2023 to Present]
@@ -22,10 +26,7 @@ I would :heart: to work or contribute on projects which are based on Machine Lea
 Microsoft Office, Python, Django, Java, C/C++, Bootstrap, Teamwork, Time management, PostgreSQL, Web Development, Streamlit
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,django,python,c,cpp,java,postgresql,postman,bootstrap,html,css,js,opencv,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=git,github,django,python,c,cpp,java" />
+    <img src="https://skillicons.dev/icons?i=postgresql,postman,bootstrap,html,css,js,opencv,tensorflow" />
   </a>
 </p>
-
-## Education
-  - MTech @ Indian Institute of Engineering and Technology Vadodara [09/2023 to 07/2025]
-  - B.E @ L.J Institute of Engineering and Technology [09/2019 to 05/2023]
