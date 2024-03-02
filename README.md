@@ -22,7 +22,7 @@ I would :heart: to work or contribute on projects which are based on Machine Lea
 Microsoft Office, Python, Django, Java, C/C++, Bootstrap, Teamwork, Time management, PostgreSQL, Web Development, Streamlit
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,django,python,c,c++,java,postgresql,streamlit,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=git,github,django,python,c,cpp,java,postgresq,postman,bootstrap,html,css,js,opencv,tensorflow" />
   </a>
 </p>
 
