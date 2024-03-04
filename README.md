@@ -23,9 +23,21 @@ IIIT Vadodara student currently pursuing Masters in Artificial Intelligence. I h
     - **Project on E-Commerce Website** - Created a shopping website where user can log in, register, and view products
    
 ## Skills
-<p align="center">
+<!--<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,django,python,c,cpp,java" />
     <img src="https://skillicons.dev/icons?i=postgresql,postman,bootstrap,html,css,js,opencv,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" />
   </a>
-</p>
+</p>-->
+
+
+| AI/ML/DS Skills | Development Skills | Other Skills |
+| -----------  | -----------------  | ------------ |
+| Numpy           | HTML            | C            | 
+| Pandas          | CSS             | CPP          |
+| Matplotlib      | JS              | Git          |
+| Python          | Django          | GitHub       |
+| Seaborn         | Bootstrap       | Java         |
+| OpenCV          | PostgreSQL      | PostMan      |
+| Tensorflow      |                 | MS Office    |
